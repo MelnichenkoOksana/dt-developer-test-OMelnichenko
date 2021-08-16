@@ -1,5 +1,5 @@
 # Описание
-Выполнено в рамках тестового задания на позицию junior Software Tool Engineer (Java) в компанию Vizor Games. Тестовое задание описано в файле DT Developer Test.pdf.
+Выполнено в рамках тестового задания на позицию junior Software Tool Engineer (Java). Тестовое задание описано в файле DT Developer Test.pdf.
 
 # Инициализация
 Проект можно запустить командой - ./gradlew run.
